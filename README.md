@@ -1,6 +1,6 @@
 # ospl-fashionx
 Purpose-built ecommerce platform for fashion and apparel brands — developed by Originate Soft Pvt Ltd
-[Image]<img width="1920" height="782" alt="Image" src="https://github.com/user-attachments/assets/51993264-52eb-4cd6-8043-b7476191b73d" />
+<img width="1920" height="782" alt="Image" src="https://github.com/user-attachments/assets/51993264-52eb-4cd6-8043-b7476191b73d" />
 **OSPL Fashionx** is a purpose-built ecommerce platform for fashion and apparel brands that need more than a generic online store. Developed by **Originate Soft Pvt Ltd**, it brings together everything a clothing business requires to sell confidently online — product catalog management, size-variant handling, order fulfilment, returns, and customer engagement — in one clean, scalable system designed specifically for the way fashion retail works.
 
 ---
@@ -12,7 +12,7 @@ Fashion retail is not like selling electronics or groceries. Collections change 
 OSPL Fashionx was built by **[ready-made ecommerce software for fashion platform]( https://originatesoft.com/ecommerce-software-solution/fashion-apparel-software/)** to close that gap — purpose-engineered for apparel businesses, not retrofitted from a horizontal ecommerce template.
 
 ---
-[Image]<img width="1920" height="782" alt="Image" src="https://github.com/user-attachments/assets/51993264-52eb-4cd6-8043-b7476191b73d" />
+<img width="1920" height="782" alt="Image" src="https://github.com/user-attachments/assets/51993264-52eb-4cd6-8043-b7476191b73d" />
 
 ## Core Features
 
